@@ -14,4 +14,4 @@ dependencyResolutionManagement {
 }
 
 rootProject.name = "HM_app"
-include ':app'
+include(":app")
